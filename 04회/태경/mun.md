@@ -15,7 +15,8 @@
 
 ## HTTP 요청 Messages
 
-- 응용계층 - 바이너리 프레임 : 헤더 프레임, 데이터 프레임
+- 요청, 응답 메시지의 유사구조
+  ![](https://velog.velcdn.com/images/xmun74/post/f530a662-8cee-4446-8c3e-0b0635b98837/image.png)
 
 1. Start Line : 요청의 상태
 
