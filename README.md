@@ -18,7 +18,8 @@
   - [x] 24.05.14(화) : HTTP 완벽 가이드 07장. 캐시
   - [x] 24.05.28(화) : HTTP 완벽 가이드 11장 클라이언트 식별과 쿠키
 
-- 자료구조
+- 자료구조 & 알고리즘 <br/>
+  [사이트](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 
   - [x] 24.06.13(목) : 스택.큐
   - [x] 24.06.17(월) : 연결리스트, 이중 연결리스트
