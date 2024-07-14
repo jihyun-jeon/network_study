@@ -1,4 +1,4 @@
-# 12회. 알고리즘
+# 12회. Math 알고리즘
 
 ### 1. Bit Manipulation - set/get/update/clear bits, 2의 곱 / 나누기, 음수로 만들기 etc.
 
